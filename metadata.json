@@ -1,0 +1,6 @@
+{
+  "name": "DataLens - Raw Data → Clean Data → Reliable Insights",
+  "description": "Professional single dataset analysis, cleaning, data profiling, DuckDB-compatible SQL query, dynamic dashboard, and reporting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
